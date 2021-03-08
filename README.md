@@ -1,6 +1,8 @@
 # `Rock paper scissors game app`
 <br/>
+
 [Click here to the game](https://sido-a.github.io/rockpaperscissors/)
+
 
 <br/>
 ## `Features`
